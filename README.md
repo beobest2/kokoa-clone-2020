@@ -1,2 +1,3 @@
 # kokoa-clone-2020
-html,css study
+
+this is html,css study repository
